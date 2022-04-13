@@ -1,0 +1,153 @@
+ 
+        body{
+            background-color: white;
+            text-align: center;
+        }
+        
+        .bg{
+            background-image: url(Main%20Design4%20copy.png);
+            height: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        }
+        
+        h1{
+            color: white;
+        }
+        p{
+            color: black;
+        }
+        
+        img{
+            width: 500px;
+        }
+        
+                .button {
+  background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid black;
+}
+
+.button1:hover {
+    background-color: black;
+    color: white;
+}
+        
+        .writing{
+            width: 50%;
+            border: 1px solid black;
+            margin: auto;
+            background-color: white;
+            opacity: 0.6;
+        }
+        
+        .headbtn{
+            position: absolute;
+            left: 50px;
+        }
+        
+.gallery{
+    margin: 10px 50px;
+
+}
+
+.gallery img{
+    width: 230px;
+    padding: 35px;
+    filter:grayscale(100%);
+    transition: 1s;
+}
+
+.gallery img:hover{
+    filter:grayscale(0);
+}
+
+.japan{
+    background-image: url(8b54f8394a8b525cdcbcf117533f64ba.jpeg);
+     height: 100%;
+     background-position: center;
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.page3{
+    background-image: url(JFeEHc.webp);
+     height: 100%;
+     background-position: center;
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutus{
+    background-image: url(wp8102840.webp);
+    height: 100%;
+     background-position: center;
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about{
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.about img{
+    height: 100px;;
+    width: 50px;
+    
+}
+
+.abouttext{
+    width: 500px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.abouttext h1{
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.abouttext h5{
+    color: white;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;}
+
+.contactus{
+    text-align: left;
+ text-transform: capitalize;
+    margin-bottom: 20px;
+    padding-top: 5%;
+    
+}
+    
